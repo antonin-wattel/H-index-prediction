@@ -13,10 +13,16 @@ whether they have co-authored any papers), and (2) the abstracts of the top-cite
 The problem is very related to the well-studied problems of node regression and text regression.
 
 ### Prerequisites
-...
 
-### Data
-...
+pandas
+re
+numpy
+networkx
+json
+gensim
+googletrans
+karateclub
+
 
 
 
