@@ -14,14 +14,14 @@ The problem is very related to the well-studied problems of node regression and 
 
 ### Prerequisites
 
-pandas
-re
-numpy
-networkx
-json
-gensim
-googletrans
-karateclub
+pandas<br/>
+re<br/>
+numpy<br/>
+networkx<br/>
+json<br/>
+gensim<br/>
+googletrans<br/>
+karateclub<br/>
 
 
 
